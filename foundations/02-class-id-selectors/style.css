@@ -1,9 +1,13 @@
 .odd-elements{
     background-color: palevioletred;
-    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 #el-2 {
     color: blue;
     font-size: 36px;
+}
+
+.el-3 {
+    font-size: 24px;
 }
